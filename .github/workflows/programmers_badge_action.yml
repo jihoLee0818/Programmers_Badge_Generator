@@ -27,7 +27,7 @@ jobs:
           PROGRAMMERS_TOKEN_ID: ${{ secrets.PROGRAMMERS_TOKEN_ID }}
           PROGRAMMERS_TOKEN_PW: ${{ secrets.PROGRAMMERS_TOKEN_PW }}
         run: ./gradlew run
-- name: Commit and Push changes
+      - name: Commit and Push changes
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
           GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
