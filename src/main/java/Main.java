@@ -84,21 +84,21 @@ public class Main {
                                 "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"551px\" height=\"217px\" style=\"shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">" +
                                 "<style>" +
                                 ".title {" +
-                                "fill: #434343;" +
+                                "fill: #c9d1d9;" +
                                 "font-size: 1rem;" +
                                 "line-height: 1.5rem;" +
                                 "font-weight: bold;" +
                                 "font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;" +
                                 "}" +
                                 ".desc {" +
-                                "fill: #434343;" +
+                                "fill: #c9d1d9;" +
                                 "font-size: 2.5rem;" +
                                 "font-weight: bold;" +
                                 "line-height: 1.5rem;" +
                                 "font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;" +
                                 "}" +
                                 ".desc-2 {" +
-                                "fill: #434343;" +
+                                "fill: #c9d1d9;" +
                                 "font-size: 1rem;" +
                                 "font-weight: bold;" +
                                 "line-height: 1.5rem;" +
@@ -116,7 +116,7 @@ public class Main {
                                 "}" +
                                 "</style>" +
 
-                                "<g><path style=\"opacity:1\" fill=\"#fefefe\" d=\"M -0.5,-0.5 C 183.167,-0.5 366.833,-0.5 550.5,-0.5C 550.5,71.8333 550.5,144.167 550.5,216.5C 366.833,216.5 183.167,216.5 -0.5,216.5C -0.5,212.167 -0.5,207.833 -0.5,203.5C 1.14011,204.32 2.80678,205.153 4.5,206C 88.1667,206.667 171.833,206.667 255.5,206C 259,205.167 261.167,203 262,199.5C 262.667,175.167 262.667,150.833 262,126.5C 261.167,123 259,120.833 255.5,120C 171.833,119.333 88.1667,119.333 4.5,120C 2.80678,120.847 1.14011,121.68 -0.5,122.5C -0.5,115.167 -0.5,107.833 -0.5,100.5C 1.14011,101.32 2.80678,102.153 4.5,103C 88.1667,103.667 171.833,103.667 255.5,103C 259,102.167 261.167,100 262,96.5C 262.667,72.1667 262.667,47.8333 262,23.5C 261.167,20 259,17.8333 255.5,17C 171.833,16.3333 88.1667,16.3333 4.5,17C 2.80678,17.8466 1.14011,18.6799 -0.5,19.5C -0.5,12.8333 -0.5,6.16667 -0.5,-0.5 Z\"/></g>\n" +
+                                "<g><path style=\"opacity:1\" fill=\"#282d33\" d=\"M -0.5,-0.5 C 183.167,-0.5 366.833,-0.5 550.5,-0.5C 550.5,71.8333 550.5,144.167 550.5,216.5C 366.833,216.5 183.167,216.5 -0.5,216.5C -0.5,212.167 -0.5,207.833 -0.5,203.5C 1.14011,204.32 2.80678,205.153 4.5,206C 88.1667,206.667 171.833,206.667 255.5,206C 259,205.167 261.167,203 262,199.5C 262.667,175.167 262.667,150.833 262,126.5C 261.167,123 259,120.833 255.5,120C 171.833,119.333 88.1667,119.333 4.5,120C 2.80678,120.847 1.14011,121.68 -0.5,122.5C -0.5,115.167 -0.5,107.833 -0.5,100.5C 1.14011,101.32 2.80678,102.153 4.5,103C 88.1667,103.667 171.833,103.667 255.5,103C 259,102.167 261.167,100 262,96.5C 262.667,72.1667 262.667,47.8333 262,23.5C 261.167,20 259,17.8333 255.5,17C 171.833,16.3333 88.1667,16.3333 4.5,17C 2.80678,17.8466 1.14011,18.6799 -0.5,19.5C -0.5,12.8333 -0.5,6.16667 -0.5,-0.5 Z\"/></g>\n" +
                                 "<g><path style=\"opacity:1\" fill=\"#ecf5ff\" d=\"M -0.5,100.5 C -0.5,73.5 -0.5,46.5 -0.5,19.5C 1.14011,18.6799 2.80678,17.8466 4.5,17C 88.1667,16.3333 171.833,16.3333 255.5,17C 259,17.8333 261.167,20 262,23.5C 262.667,47.8333 262.667,72.1667 262,96.5C 261.167,100 259,102.167 255.5,103C 171.833,103.667 88.1667,103.667 4.5,103C 2.80678,102.153 1.14011,101.32 -0.5,100.5 Z\"/></g>\n" +
                                 "<g><path style=\"opacity:1\" fill=\"#ecf5ff\" d=\"M 285.5,16.5 C 369.167,16.3333 452.834,16.5 536.5,17C 540,17.8333 542.167,20 543,23.5C 543.667,47.8333 543.667,72.1667 543,96.5C 542.167,100 540,102.167 536.5,103C 452.833,103.667 369.167,103.667 285.5,103C 282,102.167 279.833,100 279,96.5C 278.333,72.1667 278.333,47.8333 279,23.5C 280.018,19.9853 282.185,17.652 285.5,16.5 Z\"/></g>\n" +
                                 "<g><path style=\"opacity:1\" fill=\"#cdeafd\" d=\"M 520.5,56.5 C 521.583,56.5394 522.583,56.8728 523.5,57.5C 524.498,65.4723 524.831,73.4723 524.5,81.5C 523.883,81.3893 523.383,81.056 523,80.5C 522.667,76.1667 522.333,71.8333 522,67.5C 521.617,66.944 521.117,66.6107 520.5,66.5C 520.5,63.1667 520.5,59.8333 520.5,56.5 Z\"/></g>\n" +
@@ -147,20 +147,20 @@ public class Main {
                                 "<g><path style=\"opacity:1\" fill=\"#a4c8ff\" d=\"M 520.5,190.5 C 519.089,192.539 517.089,193.539 514.5,193.5C 516.181,191.992 518.181,190.992 520.5,190.5 Z\"/></g>\n" +
 
                                 "<text text-anchor=\"middle\" x=\"80\" y=\"45\" class=\"title\" style=\"fill:#0078ff;\" stroke=\"#none\" stroke-width=\"1\" >정복 중인 레벨</text>" +
-                                "<text text-anchor=\"middle\" x=\"60\" y=\"85\" class=\"desc\" style=\"fill:#000000;\" stroke=\"#none\" stroke-width=\"1\" >%s</text>" +
-                                "<text text-anchor=\"middle\" x=\"100\" y=\"85\" class=\"desc-2\" style=\"fill:#434343;\" stroke=\"#none\" stroke-width=\"1\" >레벨</text>" +
+                                "<text text-anchor=\"middle\" x=\"60\" y=\"85\" class=\"desc\" style=\"fill:#ffffff;\" stroke=\"#none\" stroke-width=\"1\" >%s</text>" +
+                                "<text text-anchor=\"middle\" x=\"100\" y=\"85\" class=\"desc-2\" style=\"fill:#c9d1d9;\" stroke=\"#none\" stroke-width=\"1\" >레벨</text>" +
 
                                 "<text text-anchor=\"middle\" x=\"340\" y=\"45\" class=\"title\" style=\"fill:#0078ff;\" stroke=\"#none\" stroke-width=\"1\" >현재 점수</text>" +
-                                "<text text-anchor=\"middle\" x=\"360\" y=\"85\" class=\"desc\" style=\"fill:#000000;\" stroke=\"#none\" stroke-width=\"1\" >%s</text>" +
-                                "<text text-anchor=\"middle\" x=\"450\" y=\"85\" class=\"desc-2\" style=\"fill:#434343;\" stroke=\"#none\" stroke-width=\"1\" >점</text>" +
+                                "<text text-anchor=\"middle\" x=\"360\" y=\"85\" class=\"desc\" style=\"fill:#ffffff;\" stroke=\"#none\" stroke-width=\"1\" >%s</text>" +
+                                "<text text-anchor=\"middle\" x=\"450\" y=\"85\" class=\"desc-2\" style=\"fill:#c9d1d9;\" stroke=\"#none\" stroke-width=\"1\" >점</text>" +
 
                                 "<text text-anchor=\"middle\" x=\"100\" y=\"150\" class=\"title\" style=\"fill:#0078ff;\" stroke=\"#none\" stroke-width=\"1\" >해결한 코딩 테스트</text>" +
-                                "<text text-anchor=\"middle\" x=\"65\" y=\"190\" class=\"desc\" style=\"fill:#000000;\" stroke=\"#none\" stroke-width=\"1\" >%s</text>" +
-                                "<text text-anchor=\"middle\" x=\"120\" y=\"190\" class=\"desc-2\" style=\"fill:#434343;\" stroke=\"#none\" stroke-width=\"1\" >문제</text>" +
+                                "<text text-anchor=\"middle\" x=\"65\" y=\"190\" class=\"desc\" style=\"fill:#ffffff;\" stroke=\"#none\" stroke-width=\"1\" >%s</text>" +
+                                "<text text-anchor=\"middle\" x=\"120\" y=\"190\" class=\"desc-2\" style=\"fill:#c9d1d9;\" stroke=\"#none\" stroke-width=\"1\" >문제</text>" +
 
                                 "<text text-anchor=\"middle\" x=\"340\" y=\"150\" class=\"title\" style=\"fill:#0078ff;\" stroke=\"#none\" stroke-width=\"1\" >나의 랭킹</text>\n" +
-                                "            <text text-anchor=\"middle\" x=\"370\" y=\"190\" class=\"desc\" style=\"fill:#000000;\" stroke=\"#none\" stroke-width=\"1\" >%s</text>\n" +
-                                "            <text text-anchor=\"middle\" x=\"450\" y=\"190\" class=\"desc-2\" style=\"fill:#434343;\" stroke=\"#none\" stroke-width=\"1\" >위</text>" +
+                                "            <text text-anchor=\"middle\" x=\"370\" y=\"190\" class=\"desc\" style=\"fill:#ffffff;\" stroke=\"#none\" stroke-width=\"1\" >%s</text>\n" +
+                                "            <text text-anchor=\"middle\" x=\"450\" y=\"190\" class=\"desc-2\" style=\"fill:#c9d1d9;\" stroke=\"#none\" stroke-width=\"1\" >위</text>" +
                                 "</svg>",
                         level != null ? level.toString() : "",
                         score != null ? score.toString() : "",
